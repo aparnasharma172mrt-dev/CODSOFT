@@ -37,15 +37,6 @@ A user-friendly application to manage income, expenses, and transaction records.
 ### ✅ Calculator App
 A responsive calculator application for performing basic arithmetic operations.
 
-## 📁 Project Structure
-Portfolio/
-│
-├── index.html
-├── style.css
-├── app.js
-├── images/
-└── resume.pdf
-
 
 ## 🎯 Purpose
 
