@@ -64,4 +64,4 @@ It is designed using **HTML5, CSS3, and JavaScript** to manage daily tasks with 
 ## 📌 Internship
 
 **CodSoft Frontend Developer Internship**  
-**Task 1: Personal Portfolio Website**
+**Task 2: To-Do List Application**
