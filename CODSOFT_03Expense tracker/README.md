@@ -78,3 +78,7 @@ It is designed using **HTML5, CSS3, and JavaScript** to track income, expenses, 
 
 ---
 
+## 📌 Internship
+
+**CodSoft Frontend Developer Internship**  
+**Task 3: Expense Tracker Application**
