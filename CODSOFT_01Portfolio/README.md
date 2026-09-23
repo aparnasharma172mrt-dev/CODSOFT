@@ -2,7 +2,7 @@
 
 This is my **personal portfolio website** created as part of **Task 1** of my **Codsoft Frontend Development Internship**.
 
-It is designed using **HTML5, CSS3, and JavaScript**, focusing on responsive design, modern UI, interactive elements, and presenting my skills and projects.
+It is designed using **HTML5, CSS3, and JavaScript**, focusing on responsive design, modern UI, and showcasing my skills and projects.
 
 ---
 
@@ -12,75 +12,57 @@ It is designed using **HTML5, CSS3, and JavaScript**, focusing on responsive des
 
 - Responsive navigation menu.
 - Mobile-friendly hamburger menu.
-- Smooth scrolling between sections.
 - Active section highlight while scrolling.
 
-### **2. Hero Section**
+### **2. Home Section**
 
 - Personal introduction with name and frontend developer title.
 - Typing animation effect.
-- Short tagline about building responsive web applications.
 - Profile image.
-- Two action buttons:
-  - **Hire Me**
-  - **View Work**
+- Navigation buttons to explore projects and contact section.
 
 ### **3. About Section**
 
-- Personal introduction and developer journey.
+- Personal introduction.
 - Profile image.
-- Technologies and learning interests.
 - Resume download button.
 
 ### **4. Skills Section**
 
-- Interactive skills display with progress bars.
-- Technical skills:
+- Skills displayed with progress bars and icons.
 
-  - HTML5
-  - CSS3
-  - JavaScript
-  - React
-
-- Modern icons and hover effects.
+**Skills:**
+- HTML5
+- CSS3
+- JavaScript
+- React
 
 ### **5. Projects Section**
 
-- Responsive project card layout.
-- Each project includes:
-  - Project image
-  - Short description
-  - Technology tags
-  - Live Demo link
-  - GitHub link
+- Project cards with images, descriptions, technology tags, live demo and GitHub links.
 
-### Projects Included:
+**Projects Included:**
 
-**1. To-Do List Application**  
-A task management application to organize daily tasks and improve productivity.
+**To-Do List Application**  
+A task management application to organize daily tasks.
 
-**Technologies Used:**
-- HTML
-- CSS
-- JavaScript
+**Expense Tracker**  
+An application to manage income and expenses.
 
+**Calculator App**  
+A responsive calculator for basic arithmetic operations.
 
-**2. Expense Tracker**  
-A simple application to manage income, expenses, and transaction records.
+### **6. Contact Section**
 
-**Technologies Used:**
-- HTML
-- CSS
-- JavaScript
+- Contact information.
+- Social media icons.
+- Contact form with validation.
 
+### **7. Additional Features**
 
-**3. Calculator App**  
-A responsive calculator application for performing basic arithmetic operations.
-
-**Technologies Used:**
-- HTML
-- CSS
-- JavaScript
+- Loading animation.
+- Back to top button.
+- Responsive design.
 
 ---
 
@@ -92,7 +74,7 @@ A responsive calculator application for performing basic arithmetic operations.
 - Font Awesome Icons
 - Google Fonts – Poppins
 - Typed.js
-- Responsive Design with Media Queries
+
 
 ## 📌 Internship
 
