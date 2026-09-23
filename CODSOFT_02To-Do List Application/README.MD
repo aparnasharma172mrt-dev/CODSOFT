@@ -42,15 +42,6 @@ It is designed using **HTML5, CSS3, and JavaScript** to manage daily tasks with 
 
 ---
 
-## 🛠 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Local Storage
-
----
-
 ## ⚙️ JavaScript Functionality
 
 - Dynamic task rendering.
@@ -60,3 +51,17 @@ It is designed using **HTML5, CSS3, and JavaScript** to manage daily tasks with 
 - Data saving using Local Storage.
 
 ---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Local Storage
+
+---
+
+## 📌 Internship
+
+**CodSoft Frontend Developer Internship**  
+**Task 1: Personal Portfolio Website**
