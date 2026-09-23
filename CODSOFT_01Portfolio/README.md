@@ -75,6 +75,7 @@ A responsive calculator for basic arithmetic operations.
 - Google Fonts – Poppins
 - Typed.js
 
+---
 
 ## 📌 Internship
 
